@@ -4,7 +4,7 @@
   - version Humain vs Humain
   - version Humain vs ordinateur
  
-  - Les règles du jeu :
+  ## Les règles du jeu :
   Le but du jeu est de former une rangée ininterrompue de pièces de la même couleur qui relie un des côtés du plateau au côté opposé :
   les pièces blanches relient les cotes blans et les noires les cotes noirs. C'est le joueur qui réussit le premier a réaliser cette rangée
   gagnera la partie.
