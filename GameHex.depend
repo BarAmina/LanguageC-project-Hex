@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1517781921 source:c:\users\user\desktop\techniques de programmation\gamehex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"prototype.h"
+	<string.h>
+
+1517780474 c:\users\user\desktop\techniques de programmation\gamehex\prototype.h
+
+1517782680 source:c:\users\user\desktop\techniques de programmation\gamehex\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"prototype.h"
+	<string.h>
+
+1517786280 source:c:\users\dell\desktop\2018_projetc_1sig_moussawi_barmani\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"prototype.h"
+	<string.h>
+
+1517784074 c:\users\dell\desktop\2018_projetc_1sig_moussawi_barmani\prototype.h
+
+1517785521 source:c:\users\dell\desktop\2018_projetc_1sig_moussawi_barmani\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"prototype.h"
+	<string.h>
+
