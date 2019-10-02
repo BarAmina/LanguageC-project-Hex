@@ -9,11 +9,13 @@
   les pièces blanches relient les côtés blancs et de même pour les noirs. C'est le joueur qui réussit le premier a réaliser cette rangée
   gagnera la partie.
   
+   ![Hex](https://user-images.githubusercontent.com/47913553/66025706-65f32780-e4f7-11e9-84dc-613007568f7a.jpeg)
+  
   ## Etat du projet 
   Le développement de ce projet est complet pour l'option Humain vs Humain . Pour l'option Humain vs ordinateur on a développer la partie ou l'ordinateur joue aléatoirement et la partie de l'intelligence artificielle est en cours de traitement.
   
   ## Les fichiers du projet 
   L e projet est composé principalement par 3 fichiers:
    - main.c : c'est la fonction main du projet qui permet d'appeler toutes les fonctions et d'exécuter les instructions du script dévelopé (un switch avec les options du jeu, importation des bibliothèques, définition des variables....)
-   - fonctions.c :
-   - protocoles.h :
+   - fonctions.c : c'est le fichier où on définit toutes les fonctions utilisées dans le jeu 
+   - protocoles.h : c'est pour définir le header
